@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Fast-React-Pizza
+
 Fast React Pizza Co. is a simple web application that allows users to order pizzas online and have them delivered to their homes. This project focuses on implementing a front-end solution using React, TailwindCSS, and React Router.
-=======
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -37,8 +37,8 @@ Fast React Pizza Co. is a simple web application that allows users to order pizz
 ### 1. Clone the repository:
 
 ```sh
-git clone https://github.com/oastra/fast-react-pizza-co.git
-cd fast-react-pizza-co
+git clone https://github.com/oastra/fast-react-pizza.git
+cd fast-react-pizza
 ```
 
 ### 2. Install dependencies:
@@ -103,4 +103,3 @@ The application will be running at `http://localhost:3000`.
 ## 📜 License
 
 This project is licensed under the MIT License.
->>>>>>> e4c79f7 (Initial commit - Fast React Pizza project setup)
